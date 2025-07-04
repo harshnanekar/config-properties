@@ -15,4 +15,4 @@ spring:
 app:
   build:
     version: "1.0.1"
-    java: "8 webhook refresh"
+    java: "8 webhook refresh success"
